@@ -145,6 +145,9 @@ Allez à : http://localhost/localisation/createPosition.php
 <img width="179" height="374" alt="Capture d&#39;écran 2026-05-21 223734" src="https://github.com/user-attachments/assets/546a9978-bffd-40a7-b082-8d591498d325" />
 
 
+<img width="176" height="366" alt="Capture d&#39;écran 2026-05-21 223838" src="https://github.com/user-attachments/assets/abd33382-2f62-4081-9f7f-8f4f2cc40052" />
+
+
 
 
 
