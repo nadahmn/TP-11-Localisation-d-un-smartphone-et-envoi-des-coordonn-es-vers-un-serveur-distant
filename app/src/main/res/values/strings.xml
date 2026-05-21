@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LocalisationSmartphone</string>
+
+    <!-- Messages pour la localisation -->
+    <string name="provider_enabled">Fournisseur %s activé</string>
+    <string name="provider_disabled">Fournisseur %s désactivé</string>
+    <string name="provider_new_status">Le fournisseur %1$s a un nouveau statut : %2$s</string>
+    <string name="new_location">Nouvelle position : Latitude = %1$s, Longitude = %2$s, Altitude = %3$s, précision = %4$s mètres</string>
+
+    <!-- Messages généraux -->
+    <string name="no_location">Aucune position détectée</string>
+    <string name="location_obtained">Position obtenue !</string>
+    <string name="sending_data">Envoi des données au serveur...</string>
+    <string name="data_sent">Données envoyées avec succès !</string>
+    <string name="send_error">Erreur lors de l\'envoi</string>
+    <string name="permission_required">Permissions nécessaires pour la localisation</string>
+    <string name="gps_searching">Recherche de position GPS...</string>
+
+    <!-- Formatage des coordonnées -->
+    <string name="latitude_label">Latitude: %.6f</string>
+    <string name="longitude_label">Longitude: %.6f</string>
+    <string name="accuracy_label">Précision: %.1f m</string>
+</resources>
