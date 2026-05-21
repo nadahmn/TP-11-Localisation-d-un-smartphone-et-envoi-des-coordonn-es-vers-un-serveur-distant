@@ -146,6 +146,12 @@ Allez à : http://localhost/localisation/createPosition.php
 
 
 
+
+
+->
+
+
+
 <img width="839" height="416" alt="Capture d&#39;écran 2026-05-21 224031" src="https://github.com/user-attachments/assets/5fdbe6cf-c146-4998-ae3d-333646290986" />
 
 
